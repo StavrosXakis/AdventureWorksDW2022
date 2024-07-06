@@ -1,0 +1,15 @@
+-- Improve Internet sales report
+-- Create Visual Dashboards with Internet Sales Data
+
+(1) Focus on:
+	-> How much we have sold of what products
+	-> To which clients
+	-> over time overview
+
+(2) Focus on:
+	-> Track products and customers
+	
+(3) Focus on:
+	-> Versus badget view
+	-> KPI metrics that shows of the actual versus budget performance
+	-> FYI , budget is a product of 2 years historical data
