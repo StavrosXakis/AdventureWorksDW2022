@@ -13,3 +13,19 @@ The attached presentation takes you through a detailed data story, highlighting 
 5. Bringing the data to life with insightful Power BI dashboards that meet stakeholder criteria effectively.
 
 This project was not just about playing with data (although that’s always fun 😄). It was about solving real-world challenges, enhancing decision-making processes, and delivering value through data-driven insights.
+
+Review the ppt in the presentation folder for comprehensive information.
+
+![alt text](./Images/image.png)
+
+![alt text](./Images/image-1.png)
+
+![alt text](./Images/image-2.png)
+
+![alt text](./Images/image-3.png)
+
+![alt text](./Images/image-4.png)
+
+![alt text](./Images/image-5.png)
+
+![alt text](./Images/image-6.png)
